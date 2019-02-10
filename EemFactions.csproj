@@ -115,6 +115,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EemFactions\Data\Scripts\Thraxus\EemFactions\FactionsCore.cs" />
+    <Compile Include="EemFactions\Data\Scripts\Thraxus\EemFactions\Helpers\StaticMethods.cs" />
+    <Compile Include="EemFactions\Data\Scripts\Thraxus\EemFactions\IEemFaction.cs" />
     <Compile Include="EemFactions\Data\Scripts\Thraxus\SessionCoreStandin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
